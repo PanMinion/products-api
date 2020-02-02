@@ -123927,6 +123927,7 @@
       "model": "MN2400B4Z",
       "image": "43900_sa.jpg",
       "id": 43900,
+      "promo": true,
       "category": "pcmcat312300050015"
     },
     {
@@ -123940,6 +123941,7 @@
       "model": "MN1500B4Z",
       "image": "48530_sa.jpg",
       "id": 48530,
+      "promo": true,
       "category": "pcmcat303600050001"
     },
     {
@@ -123953,6 +123955,7 @@
       "model": "MN1500B8Z",
       "image": "127687_sa.jpg",
       "id": 127687,
+      "promo": true,
       "category": "pcmcat312300050015"
     },
     {
@@ -123966,6 +123969,7 @@
       "model": "E91BP-4",
       "image": "150115_sa.jpg",
       "id": 150115,
+      "promo": true,
       "category": "pcmcat312300050015"
     },
     {
@@ -123979,6 +123983,7 @@
       "model": "MN1400R4Z",
       "image": "185230_sa.jpg",
       "id": 185230,
+      "promo": true,
       "category": "abcat0208002"
     },
     {
